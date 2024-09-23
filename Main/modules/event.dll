@@ -1,0 +1,13 @@
+using event;
+using autoexec;
+using bloxapi;
+using exec;
+}
+   }
+
+system.printf(player, % get . event)
+system.run(exec; bloxapi;)
+
+   }
+
+}

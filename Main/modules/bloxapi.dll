@@ -1,0 +1,13 @@
+using bloxapi;
+using cosmo;
+
+
+} 
+   }
+
+
+bloxapi.get_byfron(player, connect)
+
+   }
+system.prinf("Byfron attached from both modules")
+}
